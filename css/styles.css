@@ -691,6 +691,8 @@ img {
   padding: 20px 24px;
 
   border: 1px solid var(--border-portfolio);
+  border-top: none;
+
 }
 
 .portfolio-box {
@@ -700,7 +702,8 @@ img {
 
 
 .aside {
-  display: inline-block;
+
+  display: block;
   position: absolute;
 
   top: 0;
